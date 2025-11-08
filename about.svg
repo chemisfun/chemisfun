@@ -1,360 +1,2190 @@
-<?xml version="1.0" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 818 460" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
-<path stroke="#000000" stroke-width="22" fill="none" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 16494.7,9367.47 C 16494.7,9367.47 16494.7,284.602 16494.7,284.602 C 16494.7,284.602 268.683,284.602 268.683,284.602 C 268.683,284.602 268.683,9367.47 268.683,9367.47 C 268.683,9367.47 16494.7,9367.47 16494.7,9367.47 " />
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 13.94 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 818 460"
+   style="background-color: #ffffff00"
+   version="1.1"
+   id="svg179"
+   sodipodi:docname="about.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs179" />
+  <sodipodi:namedview
+     id="namedview179"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.7360512"
+     inkscape:cx="84.062756"
+     inkscape:cy="95.941189"
+     inkscape:window-width="1408"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg179" />
+  <g
+     id="goback"
+     onclick="window.location.href = 'index.svg'"
+     onmouseover="document.getElementById('goback-box').setAttribute('opacity','0.5');"
+     onmouseout="document.getElementById('goback-box').setAttribute('opacity','1')"
+     transform="translate(0,14)">
+    <path
+       stroke="none"
+       fill="#999999"
+       transform="matrix(0.05,0,0,0.05,-10,-11)"
+       d="m 395.9,1492.34 c 0,0 0,-189.97 0,-189.97 0,-73.45 59.613,-133.06 133.055,-133.06 0,0 1246.885,0 1246.885,0 73.45,0 133.06,59.61 133.06,133.06 0,0 0,189.97 0,189.97 0,73.45 -59.61,133.06 -133.06,133.06 0,0 -1246.885,0 -1246.885,0 -73.442,0 -133.055,-59.61 -133.055,-133.06"
+       id="goback-box" />
+    <text
+       x="0"
+       y="0"
+       stroke="none"
+       fill="#000000"
+       transform="matrix(0.05,0,0,0.05,29.3796,61.765)"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="gobacktext">go home</text>
+    <path
+       stroke="#999999"
+       stroke-width="1"
+       transform="matrix(0.05,0,0,0.05,-10,-11)"
+       d="m 395.9,1492.34 c 0,0 0,-189.97 0,-189.97 0,-73.45 59.613,-133.06 133.055,-133.06 0,0 1246.885,0 1246.885,0 73.45,0 133.06,59.61 133.06,133.06 0,0 0,189.97 0,189.97 0,73.45 -59.61,133.06 -133.06,133.06 0,0 -1246.885,0 -1246.885,0 -73.442,0 -133.055,-59.61 -133.055,-133.06"
+       onclick="history.go(-1)"
+       style="opacity:0"
+       id="goback-link" />
+  </g>
+  <path
+     stroke="#000000"
+     stroke-width="22"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 16494.7,9367.47 C 16494.7,9367.47 16494.7,284.602 16494.7,284.602 C 16494.7,284.602 268.683,284.602 268.683,284.602 C 268.683,284.602 268.683,9367.47 268.683,9367.47 C 268.683,9367.47 16494.7,9367.47 16494.7,9367.47 "
+     id="path1" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 13.94 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text1">
 This </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 46.6089 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 46.6089 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text2">
 resource </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 109.643 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 109.643 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text3">
 provides </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 171.884 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 171.884 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text4">
 an </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 192.112 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 192.112 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text5">
 overview </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 255.925 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 255.925 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text6">
 of </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 273.029 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 273.029 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text7">
 reactions </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 339.167 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 339.167 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text8">
 typically </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 399.084 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 399.084 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text9">
 taught </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 445.739 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 445.739 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text10">
 in </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 462.07 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 462.07 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text11">
 Sophomore </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 543.739 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 543.739 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text12">
 Organic </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 600.532 20.388)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 600.532 20.388)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text13">
 Chemistry.</text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 13.94 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 13.94 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text14">
 • </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 22.731 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 22.731 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text15">
 Click </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 56.9517 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 56.9517 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text16">
 on </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 76.4136 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 76.4136 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text17">
 reagents, </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 138.675 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 138.675 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text18">
 products, </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 200.151 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 200.151 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text19">
 reactants </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 261.627 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 261.627 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text20">
 as </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 280.302 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 280.302 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text21">
 a </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 291.978 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 291.978 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text22">
 way </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 320.764 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 320.764 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text23">
 to </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 336.33 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 336.33 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text24">
 navigate </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 393.15 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 393.15 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text25">
 the </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 416.502 35.463)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 416.502 35.463)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text26">
 website.</text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 13.94 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
-• </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 22.731 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="13.94"
+     y="50.537994"
+     stroke="none"
+     fill="#b3b3b3"
+     font-style="normal"
+     font-weight="normal"
+     font-size="14px"
+     font-family="Helvetica"
+     id="text27"
+     style="stroke-width:0.05">•</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 22.731 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text28">
 Click </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 56.9517 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 56.9517 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text29">
 on </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 76.4136 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 76.4136 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text30">
 buttons </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 126.227 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 126.227 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text31">
 at </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 141.793 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 141.793 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text32">
 bottom </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 188.482 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 188.482 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text33">
 left </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 211.047 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 211.047 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text34">
 for </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 231.275 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 231.275 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text35">
 a </text>
-<text x="0" y="0" stroke="none" fill="#b3b3b3" transform="matrix(0.05 0 0 0.05 242.951 50.538)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#b3b3b3"
+     transform="matrix(0.05 0 0 0.05 242.951 50.538)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text36">
 self-quiz.</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 25.644 126.256)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 25.644 126.256)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text37">
 Color </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 54.5307 126.256)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 54.5307 126.256)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text38">
 scheme </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 94.5551 126.256)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 94.5551 126.256)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text39">
 used:</text>
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 1405.36,3396.72 L 1416.44,3377.52 L 1670.29,3524.6 L 1670.29,3536.88 L 1659.89,3543.17 L 1405.36,3396.72 Z " />
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 1680.69,3543.17 L 1670.29,3536.88 L 1670.29,3524.6 L 1924.14,3377.52 L 1935.23,3396.72 L 1680.69,3543.17 Z " />
-<text x="0" y="0" stroke="none" fill="#107f01" transform="matrix(0.05 0 0 0.05 70.2649 184.059)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 1405.36,3396.72 L 1416.44,3377.52 L 1670.29,3524.6 L 1670.29,3536.88 L 1659.89,3543.17 L 1405.36,3396.72 Z "
+     id="path39" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 1680.69,3543.17 L 1670.29,3536.88 L 1670.29,3524.6 L 1924.14,3377.52 L 1935.23,3396.72 L 1680.69,3543.17 Z "
+     id="path40" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 70.2649 184.059)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text40">
 Br</text>
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 1659.89,3543.17 L 1670.29,3536.88 L 1680.69,3543.17 L 1681.38,3740.38 L 1659.2,3740.38 L 1659.89,3543.17 Z " />
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 2764.88,3649.88 L 2149.28,3649.88 L 2149.28,3627.88 L 2764.88,3627.88 Z " />
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 2957.92,3638.88 C 2957.92,3638.88 2736.16,3695.32 2736.16,3695.32 C 2736.16,3695.32 2763.88,3663.57 2763.88,3638.88 C 2763.88,3613.75 2736.16,3581.44 2736.16,3581.44 C 2736.16,3581.44 2957.92,3638.88 2957.92,3638.88 C 2957.92,3638.88 2957.92,3638.88 2957.92,3638.88 " />
-<path stroke="#000000" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 2957.92,3638.88 C 2957.92,3638.88 2736.16,3695.32 2736.16,3695.32 C 2736.16,3695.32 2763.88,3663.57 2763.88,3638.88 C 2763.88,3613.75 2736.16,3581.44 2736.16,3581.44 C 2736.16,3581.44 2957.92,3638.88 2957.92,3638.88 C 2957.92,3638.88 2957.92,3638.88 2957.92,3638.88 " />
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3190.86,3301.82 L 3201.95,3282.62 L 3455.8,3429.7 L 3455.8,3441.98 L 3445.4,3448.28 L 3190.86,3301.82 Z " />
-<path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3466.2,3448.28 L 3455.8,3441.98 L 3455.8,3429.7 L 3709.65,3282.62 L 3720.74,3301.82 L 3466.2,3448.28 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 159.54 179.314)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 1659.89,3543.17 L 1670.29,3536.88 L 1680.69,3543.17 L 1681.38,3740.38 L 1659.2,3740.38 L 1659.89,3543.17 Z "
+     id="path41" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 2764.88,3649.88 L 2149.28,3649.88 L 2149.28,3627.88 L 2764.88,3627.88 Z "
+     id="path42" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 2957.92,3638.88 C 2957.92,3638.88 2736.16,3695.32 2736.16,3695.32 C 2736.16,3695.32 2763.88,3663.57 2763.88,3638.88 C 2763.88,3613.75 2736.16,3581.44 2736.16,3581.44 C 2736.16,3581.44 2957.92,3638.88 2957.92,3638.88 C 2957.92,3638.88 2957.92,3638.88 2957.92,3638.88 "
+     id="path43" />
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 2957.92,3638.88 C 2957.92,3638.88 2736.16,3695.32 2736.16,3695.32 C 2736.16,3695.32 2763.88,3663.57 2763.88,3638.88 C 2763.88,3613.75 2736.16,3581.44 2736.16,3581.44 C 2736.16,3581.44 2957.92,3638.88 2957.92,3638.88 C 2957.92,3638.88 2957.92,3638.88 2957.92,3638.88 "
+     id="path44" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3190.86,3301.82 L 3201.95,3282.62 L 3455.8,3429.7 L 3455.8,3441.98 L 3445.4,3448.28 L 3190.86,3301.82 Z "
+     id="path45" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3466.2,3448.28 L 3455.8,3441.98 L 3455.8,3429.7 L 3709.65,3282.62 L 3720.74,3301.82 L 3466.2,3448.28 Z "
+     id="path46" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 159.54 179.314)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text46">
 C</text>
-<path stroke="none" fill="#ff0000" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3445.4,3448.28 L 3455.8,3441.98 L 3466.2,3448.28 L 3466.89,3645.25 L 3444.71,3645.25 L 3445.4,3448.28 Z " />
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 159.54 194.29)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >
+  <path
+     stroke="none"
+     fill="#ff0000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3445.4,3448.28 L 3455.8,3441.98 L 3466.2,3448.28 L 3466.89,3645.25 L 3444.71,3645.25 L 3445.4,3448.28 Z "
+     id="path47" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 159.54 194.29)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text47">
 C</text>
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3500.15,3841.73 L 3522.33,3841.73 L 3522.33,3944.77 L 3500.15,3944.77 L 3500.15,3841.73 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3444.71,3841.73 L 3466.89,3841.73 L 3466.89,3944.77 L 3444.71,3944.77 L 3444.71,3841.73 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3389.27,3841.73 L 3411.45,3841.73 L 3411.45,3944.77 L 3389.27,3944.77 L 3389.27,3841.73 Z " />
-<path stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 -10 -11)" d="M 3444.71,4141.25 L 3466.89,4141.25 L 3466.89,4340.54 L 3444.71,4340.54 L 3444.71,4141.25 Z " />
-<text x="0" y="0" stroke="none" fill="#107f01" transform="matrix(0.05 0 0 0.05 24.048 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <path
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3500.15,3841.73 L 3522.33,3841.73 L 3522.33,3944.77 L 3500.15,3944.77 L 3500.15,3841.73 Z "
+     id="path48" />
+  <path
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3444.71,3841.73 L 3466.89,3841.73 L 3466.89,3944.77 L 3444.71,3944.77 L 3444.71,3841.73 Z "
+     id="path49" />
+  <path
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3389.27,3841.73 L 3411.45,3841.73 L 3411.45,3944.77 L 3389.27,3944.77 L 3389.27,3841.73 Z "
+     id="path50" />
+  <path
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 3444.71,4141.25 L 3466.89,4141.25 L 3466.89,4340.54 L 3444.71,4340.54 L 3444.71,4141.25 Z "
+     id="path51" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 24.048 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text51">
 green</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 49.6242 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 52.4025 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 49.6242 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text52" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 52.4025 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text53">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 58.5109 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 58.5109 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text54">
 good </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 83.5353 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 83.5353 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text55">
 leaving </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 118.003 208.184)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 118.003 208.184)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text56">
 group</text>
-<text x="0" y="0" stroke="none" fill="#ff0000" transform="matrix(0.05 0 0 0.05 182.779 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#ff0000"
+     transform="matrix(0.05 0 0 0.05 182.779 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text57">
 red</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 197.232 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 200.011 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 197.232 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text58" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 200.011 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text59">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 206.119 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 206.119 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text60">
 formation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 250.582 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 250.582 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text61">
 of </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 261.7 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 261.7 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text62">
 C-C </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 282.252 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 282.252 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text63">
 or </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 293.922 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 293.922 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text64">
 C=C </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 316.983 165.624)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 316.983 165.624)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text65">
 bond</text>
-<text x="0" y="0" stroke="none" fill="#0000ff" transform="matrix(0.05 0 0 0.05 182.872 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 182.872 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text66">
 blue</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 201.778 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 204.557 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 201.778 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text67" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 204.557 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text68">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 210.665 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 210.665 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text69">
 an </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 224.566 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 224.566 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text70">
 overall </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 256.803 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 256.803 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text71">
 change </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 292.389 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 292.389 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text72">
 (relative </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 330.733 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 330.733 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text73">
 to </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 341.851 186.904)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 341.851 186.904)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text74">
 substrate)</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 22.1514 316.712)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 22.1514 316.712)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text75">
 Comments? </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 106.938 316.712)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 106.938 316.712)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text76">
 Suggestions? </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 203.386 316.712)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 203.386 316.712)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text77">
 Typos?</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 21.8135 335.864)" font-style="normal" font-weight="bold" font-size="240px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 21.8135 335.864)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="240px"
+     font-family="Helvetica"
+     id="text78">
 Email </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 57.1631 335.864)" font-style="normal" font-weight="bold" font-size="240px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 57.1631 335.864)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="240px"
+     font-family="Helvetica"
+     id="text79">
 funchemcharts@gmail.com</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 21.7139 445.988)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 21.7139 445.988)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text80">
 Last </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 54.3897 445.988)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 54.3897 445.988)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text81">
 Update: </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 110.39 445.988)" font-style="normal" font-weight="bold" font-size="240px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 110.39 445.988)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="240px"
+     font-family="Helvetica"
+     id="text82">
 11/2025</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 25.112 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 25.112 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text83">
 If </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 33.4469 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 33.4469 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text84">
 clicking </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 69.0134 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 69.0134 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text85">
 on </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 82.9147 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 82.9147 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text86">
 a </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 91.2546 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 91.2546 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text87">
 particular </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 135.161 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 135.161 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text88">
 transformation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 201.855 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 201.855 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text89">
 doesn’t </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 236.88 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 236.88 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text90">
 lead </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 258.564 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 258.564 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text91">
 anywhere, </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 307.48 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 307.48 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text92">
 likely </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 332.485 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 332.485 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text93">
 this </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 350.825 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 350.825 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text94">
 is </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 360.825 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 360.825 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text95">
 the </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 377.505 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 377.505 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text96">
 only </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 398.628 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 398.628 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text97">
 transformation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 465.322 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 465.322 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text98">
 of </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 476.44 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 476.44 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text99">
 its </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 489.218 260.852)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 489.218 260.852)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text100">
 kind.</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 25.644 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 25.644 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text101">
 Advice: </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 61.2153 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 61.2153 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text102">
 when </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 87.8998 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 87.8998 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text103">
 learning </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 126.259 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 126.259 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text104">
 reactions </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 169.614 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 169.614 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text105">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 175.722 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 175.722 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text106">
 (a) </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 190.722 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 190.722 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text107">
 describe </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 231.298 238.508)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 231.298 238.508)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text108">
 what</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 254.077 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 256.855 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 254.077 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text109" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 256.855 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text110">
 happens </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 298.002 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 298.002 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text111">
 (e.g., </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 323.569 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 323.569 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text112">
 change/oxidation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 401.962 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 401.962 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text113">
 of </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 413.081 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 413.081 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text114">
 primary </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 449.194 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 449.194 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text115">
 alcohol </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 483.662 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 483.662 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text116">
 into </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 502.563 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 502.563 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text117">
 an </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 516.464 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 516.464 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text118">
 aldehyde); </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 565.942 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 565.942 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text119">
 (b) </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 580.942 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 580.942 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text120">
 explain </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 615.41 238.508)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 615.41 238.508)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text121">
 how</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 635.405 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 638.183 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 635.405 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text122" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 638.183 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text123">
 the </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 654.863 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 654.863 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text124">
 transformation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 721.557 238.508)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 721.557 238.508)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text125">
 happens</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 25.644 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 25.644 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text126">
 (mechanism); </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 88.9887 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 88.9887 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text127">
 (c) </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 103.427 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 103.427 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text128">
 try </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 117.314 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 117.314 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text129">
 to </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 128.432 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 128.432 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text130">
 rationalize </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 176.791 249.166)" font-style="normal" font-weight="bold" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 176.791 249.166)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text131">
 why</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 196.24 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 199.018 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 196.24 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text132" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 199.018 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text133">
 a </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 207.358 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 207.358 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text134">
 particular </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 251.264 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 251.264 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text135">
 transformation </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 317.958 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 317.958 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text136">
 (and </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 340.751 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 340.751 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text137">
 not </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 357.431 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 357.431 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text138">
 any </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 376.332 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 376.332 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text139">
 alternative </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 425.248 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 425.248 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text140">
 path) </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 450.82 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 450.82 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text141">
 takes </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 477.499 249.166)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 477.499 249.166)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text142">
 place.</text>
-<path stroke="#000000" stroke-width="22" fill="none" transform="matrix(0.05 0 0 0.05 -10 -11)" stroke-dasharray="53" d="M 541.64,4442.14 C 541.64,4442.14 541.64,3121.9 541.64,3121.9 C 541.64,3048.45 601.253,2988.84 674.695,2988.84 C 674.695,2988.84 7857.58,2988.84 7857.58,2988.84 C 7931.03,2988.84 7990.64,3048.45 7990.64,3121.9 C 7990.64,3121.9 7990.64,4442.14 7990.64,4442.14 C 7990.64,4515.59 7931.03,4575.2 7857.58,4575.2 C 7857.58,4575.2 674.695,4575.2 674.695,4575.2 C 601.253,4575.2 541.64,4515.59 541.64,4442.14 " />
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 416.664 156.048)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <path
+     stroke="#000000"
+     stroke-width="22"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     stroke-dasharray="53"
+     d="M 541.64,4442.14 C 541.64,4442.14 541.64,3121.9 541.64,3121.9 C 541.64,3048.45 601.253,2988.84 674.695,2988.84 C 674.695,2988.84 7857.58,2988.84 7857.58,2988.84 C 7931.03,2988.84 7990.64,3048.45 7990.64,3121.9 C 7990.64,3121.9 7990.64,4442.14 7990.64,4442.14 C 7990.64,4515.59 7931.03,4575.2 7857.58,4575.2 C 7857.58,4575.2 674.695,4575.2 674.695,4575.2 C 601.253,4575.2 541.64,4515.59 541.64,4442.14 "
+     id="path142" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 416.664 156.048)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text143">
 • </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 425.455 156.048)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 425.455 156.048)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text144">
 over </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 458.917 156.048)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 458.917 156.048)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text145">
 140 </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 486.165 156.048)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 486.165 156.048)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text146">
 reactions </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 552.303 156.048)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 552.303 156.048)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text147">
 covered</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 416.664 170.94)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 416.664 170.94)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text148">
 • </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 425.455 170.94)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 425.455 170.94)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text149">
 2 </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 437.131 170.94)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 437.131 170.94)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text150">
 kinds </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 477.586 170.94)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 477.586 170.94)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text151">
 of </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 494.689 170.94)" font-style="normal" font-weight="bold" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 494.689 170.94)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text152">
 pages: </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 416.664 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 420.554 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 424.443 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 416.664 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text153" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 420.554 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text154" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 424.443 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text155">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 432.995 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 432.995 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text156">
 how </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 462.567 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 462.567 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text157">
 a </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 474.243 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 474.243 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text158">
 functional </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 538.063 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 538.063 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text159">
 group </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 577.76 185.831)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 577.76 185.831)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text160">
 reacts</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 416.664 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 420.554 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 424.443 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 416.664 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text161" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 420.554 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text162" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 424.443 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text163">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 432.995 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 432.995 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text164">
 how </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 462.567 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 462.567 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text165">
 to </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 478.133 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 478.133 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text166">
 prepare </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 530.277 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 530.277 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text167">
 a </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 541.953 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 541.953 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text168">
 particular </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 603.422 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 603.422 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text169">
 functional </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 667.242 200.723)" font-style="normal" font-weight="normal" font-size="280px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 667.242 200.723)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text170">
 group</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 99.1873 183.584)" font-style="italic" font-weight="normal" font-size="160px" font-family="Helvetica Oblique" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 99.1873 183.584)"
+     font-style="italic"
+     font-weight="normal"
+     font-size="160px"
+     font-family="Helvetica Oblique"
+     id="text171">
 reaction</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 182.779 205.928)" font-style="italic" font-weight="normal" font-size="200px" font-family="Helvetica Oblique" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 182.779 205.928)"
+     font-style="italic"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica Oblique"
+     id="text172">
 reaction</text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 218.355 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
- </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 221.134 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 218.355 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text173" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 221.134 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text174">
 - </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 227.242 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 227.242 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text175">
 reaction </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 265.597 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 265.597 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text176">
 name </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 293.39 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 293.39 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text177">
 (when </text>
-<text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 323.404 205.928)" font-style="normal" font-weight="normal" font-size="200px" font-family="Helvetica" >
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 323.404 205.928)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text178">
 applicable)</text>
   <text
      x="822.84332"
@@ -366,7 +2196,7 @@ applicable)</text>
      font-weight="bold"
      font-size="8.25806px"
      font-family="'Helvetica Oblique'"
-     id="text11"
+     id="text179"
      style="opacity:1;fill:#00009a;fill-opacity:0.651128;stroke-width:0.0412903">chemisfun</text>
   <g
      id="overlay-box"
