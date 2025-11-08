@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 818 460"
+   style="background-color: #ffffff00"
+   version="1.1"
+   id="svg97"
+   sodipodi:docname="amides-noproducts.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     stroke="#ffffff"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6106.1,5691.4 C 6106.1,5691.4 6106.1,5012.32 6106.1,5012.32 C 6106.1,5012.32 5290,5012.32 5290,5012.32 C 5290,5012.32 5290,5691.4 5290,5691.4 C 5290,5691.4 6106.1,5691.4 6106.1,5691.4 "
+     id="path2" />
+  <path
+     stroke="#ffffff"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7693.4,6721 C 7693.4,6721 7693.4,5049.13 7693.4,5049.13 C 7693.4,5049.13 6519.8,5049.13 6519.8,5049.13 C 6519.8,5049.13 6519.8,6721 6519.8,6721 C 6519.8,6721 7693.4,6721 7693.4,6721 "
+     id="path6" />
+  <path
+     stroke="#ffffff"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 11011,6663.8 C 11011,6663.8 11011,5761.9 11011,5761.9 C 11011,5761.9 9737.3,5761.9 9737.3,5761.9 C 9737.3,5761.9 9737.3,6663.8 9737.3,6663.8 C 9737.3,6663.8 11011,6663.8 11011,6663.8 "
+     id="path8" />
+  <path
+     stroke="#000000"
+     stroke-width="22"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 16494.7,9367.47 C 16494.7,9367.47 16494.7,284.602 16494.7,284.602 C 16494.7,284.602 268.683,284.602 268.683,284.602 C 268.683,284.602 268.683,9367.47 268.683,9367.47 C 268.683,9367.47 16494.7,9367.47 16494.7,9367.47 "
+     id="path11" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 11.735 21.13)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="320px"
+     font-family="Helvetica"
+     id="text11">
+Amides - Reactions</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#999999"
+     transform="matrix(0.05 0 0 0.05 11.9381 39.085)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="320px"
+     font-family="Helvetica"
+     id="text14">
+click for more</text>
+  <g
+     id="goback"
+     onclick="window.location.href = 'index.svg'"
+     onmouseover="document.getElementById('goback-box').setAttribute('opacity','0.5');"
+     onmouseout="document.getElementById('goback-box').setAttribute('opacity','1')">
+    <path
+       stroke="none"
+       fill="#999999"
+       transform="matrix(0.05 0 0 0.05 -10 -11)"
+       d="M 395.9,1492.34 C 395.9,1492.34 395.9,1302.37 395.9,1302.37 C 395.9,1228.92 455.513,1169.31 528.955,1169.31 C 528.955,1169.31 1775.84,1169.31 1775.84,1169.31 C 1849.29,1169.31 1908.9,1228.92 1908.9,1302.37 C 1908.9,1302.37 1908.9,1492.34 1908.9,1492.34 C 1908.9,1565.79 1849.29,1625.4 1775.84,1625.4 C 1775.84,1625.4 528.955,1625.4 528.955,1625.4 C 455.513,1625.4 395.9,1565.79 395.9,1492.34 "
+       id="goback-box" />
+    <text
+       x="0"
+       y="0"
+       stroke="none"
+       fill="#000000"
+       transform="matrix(0.05 0 0 0.05 29.3796 61.765)"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="gobacktext">
+go home</text>
+    <path
+       stroke="#999999"
+       stroke-width="1"
+       transform="matrix(0.05 0 0 0.05 -10 -11)"
+       d="M 395.9,1492.34 C 395.9,1492.34 395.9,1302.37 395.9,1302.37 C 395.9,1228.92 455.513,1169.31 528.955,1169.31 C 528.955,1169.31 1775.84,1169.31 1775.84,1169.31 C 1849.29,1169.31 1908.9,1228.92 1908.9,1302.37 C 1908.9,1302.37 1908.9,1492.34 1908.9,1492.34 C 1908.9,1565.79 1849.29,1625.4 1775.84,1625.4 C 1775.84,1625.4 528.955,1625.4 528.955,1625.4 C 455.513,1625.4 395.9,1565.79 395.9,1492.34 "
+       onclick="history.back()"
+       style="opacity:0"
+       id="goback-link" />
+  </g>
+  <g
+     id="howtomake"
+     onclick="window.location.href = 'toamides.svg'"
+     onmouseover="document.getElementById('howtomake-box').setAttribute('opacity','0.5');"
+     onmouseout="document.getElementById('howtomake-box').setAttribute('opacity','1')">
+    <path
+       stroke="none"
+       fill="#999999"
+       transform="matrix(0.05 0 0 0.05 -10 -11)"
+       d="M 381.591,2007.46 C 381.591,2007.46 381.591,1817.48 381.591,1817.48 C 381.591,1744.04 441.204,1684.42 514.647,1684.42 C 514.647,1684.42 1761.54,1684.42 1761.54,1684.42 C 1834.98,1684.42 1894.59,1744.04 1894.59,1817.48 C 1894.59,1817.48 1894.59,2007.46 1894.59,2007.46 C 1894.59,2080.9 1834.98,2140.51 1761.54,2140.51 C 1761.54,2140.51 514.647,2140.51 514.647,2140.51 C 441.204,2140.51 381.591,2080.9 381.591,2007.46 "
+       id="howtomake-box" />
+    <text
+       x="0"
+       y="0"
+       stroke="none"
+       fill="#000000"
+       transform="matrix(0.05 0 0 0.05 17.275 87.5206)"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="howtomaketext">
+how to make</text>
+    <path
+       stroke="#999999"
+       stroke-width="1"
+       transform="matrix(0.05 0 0 0.05 -10 -11)"
+       d="M 381.591,2007.46 C 381.591,2007.46 381.591,1817.48 381.591,1817.48 C 381.591,1744.04 441.204,1684.42 514.647,1684.42 C 514.647,1684.42 1761.54,1684.42 1761.54,1684.42 C 1834.98,1684.42 1894.59,1744.04 1894.59,1817.48 C 1894.59,1817.48 1894.59,2007.46 1894.59,2007.46 C 1894.59,2080.9 1834.98,2140.51 1761.54,2140.51 C 1761.54,2140.51 514.647,2140.51 514.647,2140.51 C 441.204,2140.51 381.591,2080.9 381.591,2007.46 "
+       style="opacity:0"
+       id="howtomake-link" />
+  </g>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 242.481 140.316)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="280px"
+     font-family="Helvetica"
+     id="text19">
+amides</text>
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 5854.25,4819.97 L 5854.25,4380.86 L 5876.25,4380.86 L 5876.25,4819.97 Z "
+     id="path22" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 5865.25,5013 C 5865.25,5013 5807.81,4791.25 5807.81,4791.25 C 5807.81,4791.25 5840.12,4818.97 5865.25,4818.97 C 5889.94,4818.97 5921.69,4791.25 5921.69,4791.25 C 5921.69,4791.25 5865.25,5013 5865.25,5013 C 5865.25,5013 5865.25,5013 5865.25,5013 "
+     id="path23" />
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 5865.25,5013 C 5865.25,5013 5807.81,4791.25 5807.81,4791.25 C 5807.81,4791.25 5840.12,4818.97 5865.25,4818.97 C 5889.94,4818.97 5921.69,4791.25 5921.69,4791.25 C 5921.69,4791.25 5865.25,5013 5865.25,5013 C 5865.25,5013 5865.25,5013 5865.25,5013 "
+     id="path24" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7071.23,4391.86 L 5865.25,4391.86 L 5865.25,4369.86 L 7071.23,4369.86 Z "
+     id="path25" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7060.23,4805.67 L 7060.23,4380.86 L 7082.23,4380.86 L 7082.23,4805.67 Z "
+     id="path26" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7071.23,4998.7 C 7071.23,4998.7 7013.79,4776.95 7013.79,4776.95 C 7013.79,4776.95 7046.1,4804.67 7071.23,4804.67 C 7095.92,4804.67 7127.67,4776.95 7127.67,4776.95 C 7127.67,4776.95 7071.23,4998.7 7071.23,4998.7 C 7071.23,4998.7 7071.23,4998.7 7071.23,4998.7 "
+     id="path27" />
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7071.23,4998.7 C 7071.23,4998.7 7013.79,4776.95 7013.79,4776.95 C 7013.79,4776.95 7046.1,4804.67 7071.23,4804.67 C 7095.92,4804.67 7127.67,4776.95 7127.67,4776.95 C 7127.67,4776.95 7071.23,4998.7 7071.23,4998.7 C 7071.23,4998.7 7071.23,4998.7 7071.23,4998.7 "
+     id="path28" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6479.24,3917.03 L 6479.24,4380.86 L 6457.24,4380.86 L 6457.24,3917.03 Z "
+     id="path29" />
+  <path
+     stroke="#000000"
+     stroke-width="22"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     stroke-dasharray="53"
+     d="M 8694.4,6730.94 C 8694.4,6730.94 8694.4,3692.75 8694.4,3692.75 C 8694.4,3619.31 8754.01,3559.7 8827.46,3559.7 C 8827.46,3559.7 11507.1,3559.7 11507.1,3559.7 C 11580.6,3559.7 11640.2,3619.31 11640.2,3692.75 C 11640.2,3692.75 11640.2,6730.94 11640.2,6730.94 C 11640.2,6804.39 11580.6,6864 11507.1,6864 C 11507.1,6864 8827.46,6864 8827.46,6864 C 8754.01,6864 8694.4,6804.39 8694.4,6730.94 "
+     id="path30" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 430.16 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text30">
+unique </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 462.968 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text31">
+reaction </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 501.322 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text32">
+of </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 512.44 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text33">
+1</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 518.002 175.132)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text34">
+o</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 522.173 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text35" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 524.951 178.718)"
+     font-style="normal"
+     font-weight="normal"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text36">
+amides</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 324.131 152.389)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text37">
+NH</text>
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6660.17,3137.23 L 6648.7,3156.21 L 6491.31,3060.27 L 6491.75,3034.6 L 6660.17,3137.23 Z "
+     id="path37" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6491.75,3034.6 L 6491.31,3060.27 L 6234.28,3202.43 L 6223.58,3183.01 L 6491.75,3034.6 Z "
+     id="path38" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 311.359 129.672)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text38">
+O</text>
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6474.29,3063.8 L 6452.12,3063.36 L 6456.39,2848.36 L 6478.56,2848.8 L 6474.29,3063.8 Z "
+     id="path39" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6529.72,3064.9 L 6507.55,3064.46 L 6511.82,2849.46 L 6533.99,2849.9 L 6529.72,3064.9 Z "
+     id="path40" />
+  <path
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6736.52,3297.47 L 6758.7,3297.47 L 6758.02,3496.24 L 6747.61,3502.53 L 6737.2,3496.24 L 6736.52,3297.47 Z "
+     id="path41" />
+  <path
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6737.2,3496.24 L 6747.61,3502.53 L 6747.61,3514.81 L 6493.76,3661.89 L 6482.68,3642.69 L 6737.2,3496.24 Z "
+     id="path42" />
+  <path
+     stroke="none"
+     fill="#107f01"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6747.61,3514.81 L 6747.61,3502.53 L 6758.02,3496.24 L 7012.55,3642.69 L 7001.46,3661.89 L 6747.61,3514.81 Z "
+     id="path43" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 435.996 211.061)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text43">
+1</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 441.557 207.462)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text44">
+o</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 446.138 211.061)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text45" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 448.917 211.061)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text46">
+amides</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 349.916 219.536)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text47">
+1) </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 361.586 219.536)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text48">
+LiAl</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#0000ff"
+     transform="matrix(0.05 0 0 0.05 380.472 219.536)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text49">
+H</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 387.694 221.836)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text50">
+4</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 349.916 230.569)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text51">
+2) </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 361.586 230.569)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text52">
+H</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 368.807 232.869)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text53">
+3</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 372.979 230.569)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text54">
+O</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 380.757 226.97)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text55">
++</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 509.148 227.464)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text69">
+N</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#fd6666"
+     transform="matrix(0.05 0 0 0.05 515.647 227.464)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text70">
+H</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#fd6666"
+     transform="matrix(0.05 0 0 0.05 522.147 229.534)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="135px"
+     font-family="Helvetica"
+     id="text71">
+2</text>
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10359.8,4638.29 L 10348.3,4657.27 L 10191.7,4561.77 L 10192.1,4536.1 L 10359.8,4638.29 Z "
+     id="path71" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10192.1,4536.1 L 10191.7,4561.77 L 9934.62,4703.93 L 9923.92,4684.51 L 10192.1,4536.1 Z "
+     id="path72" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#fd6666"
+     transform="matrix(0.05 0 0 0.05 496.376 204.747)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="180px"
+     font-family="Helvetica"
+     id="text72">
+O</text>
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10174.6,4565.3 L 10152.5,4564.86 L 10156.7,4349.86 L 10178.9,4350.3 L 10174.6,4565.3 Z "
+     id="path73" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10230.1,4566.4 L 10207.9,4565.96 L 10212.2,4350.96 L 10234.3,4351.4 L 10230.1,4566.4 Z "
+     id="path74" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10197.7,5477.03 L 10197.7,4925.57 L 10219.7,4925.57 L 10219.7,5477.03 Z "
+     id="path75" />
+  <path
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10208.7,5670.07 C 10208.7,5670.07 10151.3,5448.31 10151.3,5448.31 C 10151.3,5448.31 10183.6,5476.03 10208.7,5476.03 C 10233.4,5476.03 10265.1,5448.31 10265.1,5448.31 C 10265.1,5448.31 10208.7,5670.07 10208.7,5670.07 C 10208.7,5670.07 10208.7,5670.07 10208.7,5670.07 "
+     id="path76" />
+  <path
+     stroke="#000000"
+     stroke-width="1"
+     fill="none"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 10208.7,5670.07 C 10208.7,5670.07 10151.3,5448.31 10151.3,5448.31 C 10151.3,5448.31 10183.6,5476.03 10208.7,5476.03 C 10233.4,5476.03 10265.1,5448.31 10265.1,5448.31 C 10265.1,5448.31 10208.7,5670.07 10208.7,5670.07 C 10208.7,5670.07 10208.7,5670.07 10208.7,5670.07 "
+     id="path77" />
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 504.93 251.792)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text77">
+P</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 511.6 254.091)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text78">
+2</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 515.771 251.792)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text79">
+O</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 523.55 254.091)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text80">
+5</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 286.858 224.041)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text85">
+heat</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 257.055 221.514)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text86">
+H</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 264.277 223.813)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text87">
+3</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 268.448 221.514)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="200px"
+     font-family="Helvetica"
+     id="text88">
+O</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 276.226 217.915)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="150px"
+     font-family="Helvetica"
+     id="text89">
++</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 202.355 233.53)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text90">
+or </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 212.578 233.53)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text91">
+NaOH, </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 239.25 233.53)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text92">
+then </text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 258.359 233.53)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text93">
+H</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 264.136 235.37)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="120px"
+     font-family="Helvetica"
+     id="text94">
+3</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 267.473 233.53)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="160px"
+     font-family="Helvetica"
+     id="text95">
+O</text>
+  <text
+     x="0"
+     y="0"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.05 0 0 0.05 273.696 230.651)"
+     font-style="normal"
+     font-weight="bold"
+     font-size="120px"
+     font-family="Helvetica"
+     id="text96">
++</text>
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'acids.svg'"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 6106.1,5691.4 C 6106.1,5691.4 6106.1,5012.32 6106.1,5012.32 C 6106.1,5012.32 5290,5012.32 5290,5012.32 C 5290,5012.32 5290,5691.4 5290,5691.4 C 5290,5691.4 6106.1,5691.4 6106.1,5691.4 "
+     id="path1"
+     inkscape:label="l-acids" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'amines.svg'"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 7693.4,6721 C 7693.4,6721 7693.4,5049.13 7693.4,5049.13 C 7693.4,5049.13 6519.8,5049.13 6519.8,5049.13 C 6519.8,5049.13 6519.8,6721 6519.8,6721 C 6519.8,6721 7693.4,6721 7693.4,6721 "
+     id="path5"
+     inkscape:label="l-amines" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'nitriles.svg'"
+     transform="matrix(0.05 0 0 0.05 -10 -11)"
+     d="M 11011,6663.8 C 11011,6663.8 11011,5761.9 11011,5761.9 C 11011,5761.9 9737.3,5761.9 9737.3,5761.9 C 9737.3,5761.9 9737.3,6663.8 9737.3,6663.8 C 9737.3,6663.8 11011,6663.8 11011,6663.8 "
+     id="path7"
+     inkscape:label="l-nitriles" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'toamides.svg'"
+     d="m 535.5704,234.09067 c 0,0 0,-41.96741 0,-41.96741 0,0 -107.47123,0 -107.47123,0 0,0 0,41.96741 0,41.96741 0,0 107.47123,0 107.47123,0"
+     id="path7-4"
+     inkscape:label="l-toamides"
+     style="opacity:0;stroke-width:0.0626599" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'toamides.svg'"
+     d="m 355.67201,182.76135 c 0,0 0,-64.64242 0,-64.64242 0,0 -121.54537,0 -121.54537,0 0,0 0,64.64242 0,64.64242 0,0 121.54537,0 121.54537,0"
+     id="path7-4-3"
+     inkscape:label="l-toamides"
+     style="opacity:0;stroke-width:0.0827019" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'supplement.svg'"
+     d="m 306.1867,236.03723 c 0,0 0,-25.54758 0,-25.54758 0,0 -107.47123,0 -107.47123,0 0,0 0,25.54758 0,25.54758 0,0 107.47123,0 107.47123,0"
+     id="path7-4-3-0"
+     inkscape:label="l-supplement"
+     style="opacity:0;stroke-width:0.0488887" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'supplement.svg'"
+     d="m 394.16694,234.47344 c 0,0 0,-25.54758 0,-25.54758 0,0 -46.48327,0 -46.48327,0 0,0 0,25.54758 0,25.54758 0,0 46.48327,0 46.48327,0"
+     id="path7-4-3-0-3"
+     inkscape:label="l-supplement"
+     style="opacity:0;stroke-width:0.0321522" />
+  <path
+     stroke="none"
+     fill="#ffffff"
+     opacity="0"
+     onclick="window.location.href = 'supplement.svg'"
+     d="m 531.31523,260.55191 c 0,0 0,-25.54758 0,-25.54758 0,0 -28.49964,0 -28.49964,0 0,0 0,25.54758 0,25.54758 0,0 28.49964,0 28.49964,0"
+     id="path7-4-3-0-6"
+     inkscape:label="l-supplement"
+     style="opacity:0;stroke-width:0.0251757" />
+  <text
+     x="822.84332"
+     y="415.79849"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.92407999,-0.00322566,0.00377741,1.0821442,0,0)"
+     font-style="italic"
+     font-weight="bold"
+     font-size="8.25806px"
+     font-family="'Helvetica Oblique'"
+     id="text1"
+     style="opacity:1;fill:#00009a;fill-opacity:0.651128;stroke-width:0.0412903">chemisfun</text>
+  <g
+     id="overlay-box"
+     style="opacity:0"
+     transform="matrix(0.31364504,0,0,0.8007311,650.50736,385.81436)">
+    <rect
+       style="fill:#609975;fill-opacity:0.2;stroke:#609970;stroke-width:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:fill markers stroke"
+       id="rect285"
+       width="164.84744"
+       height="59.583412"
+       x="329.69489"
+       y="23.171328" />
+  </g>
+  <g
+     id="overlay"
+     onclick="window.location.href = 'about.svg'"
+     onmouseover="this.ownerDocument.getElementById('overlay-box').style.opacity='0.5'"
+     onmouseout="this.ownerDocument.getElementById('overlay-box').style.opacity='0'"
+     transform="matrix(0.76550767,-0.0030054,0.00267214,0.86098131,195.61318,22.784653)">
+    <rect
+       style="opacity:0.5;fill:#ffffff;fill-opacity:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:stroke fill markers"
+       id="rect2"
+       width="65.93074"
+       height="55.035408"
+       x="733.06049"
+       y="445.87061" />
+  </g>
+  <g
+     id="g1"
+     transform="matrix(0.0625,0,0,0.0625,764.65732,406.62566)">
+    <rect
+       x="239.31"
+       y="120.321"
+       style="fill:#444242"
+       width="33.389"
+       height="139.98"
+       id="rect1" />
+    <rect
+       x="256"
+       y="120.321"
+       style="fill:#3a3839"
+       width="16.695"
+       height="139.98"
+       id="rect2-2" />
+    <rect
+       x="132.194"
+       y="305.86301"
+       transform="matrix(0.5,0.866,-0.866,0.5,399.932,58.9793)"
+       style="fill:#444242"
+       width="33.387001"
+       height="139.967"
+       id="rect4" />
+    <rect
+       x="293.125"
+       y="359.13"
+       transform="matrix(0.866,0.5,-0.5,0.866,236.5654,-131.205)"
+       style="fill:#3a3839"
+       width="139.967"
+       height="33.387001"
+       id="rect5" />
+    <path
+       style="background-color:#ffffff00;fill:#439de2;fill-opacity:1"
+       d="m 456.843,485.07 c -9.538,0 -18.951,-2.501 -27.432,-7.398 v 0 c -12.733,-7.351 -21.842,-19.221 -25.646,-33.424 -3.805,-14.201 -1.853,-29.035 5.499,-41.769 7.351,-12.732 19.221,-21.841 33.424,-25.646 14.201,-3.806 29.034,-1.853 41.769,5.499 12.732,7.351 21.841,19.221 25.646,33.424 3.805,14.202 1.853,29.035 -5.499,41.769 -7.351,12.733 -19.221,21.842 -33.424,25.646 -4.742,1.27 -9.557,1.899 -14.337,1.899 z"
+       id="path7-3" />
+    <path
+       style="background-color:#ffffff00;fill:#eda74a;fill-opacity:1"
+       d="m 256.001,137.021 c -30.352,0 -55.044,-24.693 -55.044,-55.044 0,-30.351 24.693,-55.044 55.044,-55.044 30.351,0 55.044,24.693 55.044,55.044 0,30.351 -24.693,55.044 -55.044,55.044 z"
+       id="path5-4" />
+    <path
+       style="background-color:#ffffff00;fill:#53acb1;fill-opacity:1"
+       d="m 55.158,485.07 c -4.781,0 -9.594,-0.629 -14.336,-1.9 C 26.619,479.365 14.75,470.256 7.398,457.524 0.046,444.792 -1.906,429.957 1.899,415.755 c 3.805,-14.203 12.914,-26.072 25.646,-33.424 12.731,-7.352 27.567,-9.304 41.769,-5.499 14.203,3.805 26.072,12.914 33.424,25.646 7.352,12.732 9.304,27.567 5.499,41.769 -3.805,14.203 -12.914,26.072 -25.646,33.424 -8.481,4.897 -17.896,7.399 -27.433,7.399 z"
+       id="path6-7" />
+    <path
+       style="fill:#f74d37"
+       d="m 256.001,384.379 c -38.81,0 -70.384,-31.575 -70.384,-70.384 0,-38.809 31.575,-70.384 70.384,-70.384 38.809,0 70.384,31.575 70.384,70.384 0,38.809 -31.575,70.384 -70.384,70.384 z"
+       id="path4-9" />
+  </g>
+  <g
+     id="g9"
+     onclick="window.location.href = 'amides-noreagents.svg'"
+     transform="translate(-4.6856272,378.9067)">
+    <text
+       x="11.200497"
+       y="54.141506"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="text5"
+       style="font-style:normal;font-weight:bold;font-size:10px;font-family:Helvetica;fill:#000000;fill-opacity:0.443609;stroke:none;stroke-width:0.05"
+       inkscape:label="noreagents-text"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="11.200497"
+         y="54.141506"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:0.5;stroke-width:0.05">reagents</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.821053;fill-rule:evenodd;stroke:#a13033;stroke-width:0;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect6"
+       width="31.666824"
+       height="0.9773711"
+       x="12.224979"
+       y="51.518982"
+       inkscape:label="noreagents-line" />
+    <path
+       stroke="none"
+       fill="#999999"
+       d="m 9.795,54.694678 c 0,0 0,-5.427567 0,-5.427567 0,-2.098514 1.463398,-3.801611 3.266274,-3.801611 0,0 30.608907,0 30.608907,0 1.803073,0 3.266397,1.703097 3.266397,3.801611 0,0 0,5.427567 0,5.427567 0,2.098514 -1.463324,3.801611 -3.266397,3.801611 0,0 -30.608907,0 -30.608907,0 -1.802876,0 -3.266274,-1.703097 -3.266274,-3.801611"
+       id="path9"
+       style="fill:#999999;fill-opacity:0.336842;stroke-width:0.0264832"
+       inkscape:label="noreagents-box" />
+  </g>
+  <g
+     id="nonames"
+     onclick="window.location.href = 'amides.svg'"
+     transform="matrix(0.85780308,0,0,1,-3.2442635,382.9067)">
+    <text
+       x="18.441887"
+       y="69.010506"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="gobacktext-7-8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0088d0;fill-opacity:0.675806;stroke:none;stroke-width:0.05"
+       inkscape:label="noproducts-text"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="18.441887"
+         y="69.010506">show</tspan></text>
+    <path
+       stroke="none"
+       fill="#999999"
+       d="m 10.136392,68.163695 c 0,0 0,-5.427567 0,-5.427567 0,-2.098514 1.679048,-3.801611 3.747601,-3.801611 0,0 35.119514,0 35.119514,0 2.068778,0 3.747742,1.703097 3.747742,3.801611 0,0 0,5.427567 0,5.427567 0,2.098514 -1.678964,3.801611 -3.747742,3.801611 0,0 -35.119514,0 -35.119514,0 -2.068553,0 -3.747601,-1.703097 -3.747601,-3.801611"
+       id="goback-box-8-6"
+       style="fill:#999999;fill-opacity:0.336842;stroke-width:0.0283675"
+       inkscape:label="noproducts-box" />
+  </g>
+  <text
+     x="822.84332"
+     y="415.79849"
+     stroke="none"
+     fill="#000000"
+     transform="matrix(0.92407999,-0.00322566,0.00377741,1.0821442,0,0)"
+     font-style="italic"
+     font-weight="bold"
+     font-size="8.25806px"
+     font-family="'Helvetica Oblique'"
+     id="text10"
+     style="opacity:1;fill:#00009a;fill-opacity:0.651128;stroke-width:0.0412903">chemisfun</text>
+  <g
+     id="g11"
+     style="opacity:0"
+     transform="matrix(0.31364504,0,0,0.8007311,650.50736,385.81436)">
+    <rect
+       style="fill:#609975;fill-opacity:0.2;stroke:#609970;stroke-width:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:fill markers stroke"
+       id="rect10"
+       width="164.84744"
+       height="59.583412"
+       x="329.69489"
+       y="23.171328" />
+  </g>
+  <g
+     id="g12"
+     onclick="window.location.href = 'about.svg'"
+     onmouseover="this.ownerDocument.getElementById('overlay-box').style.opacity='0.5'"
+     onmouseout="this.ownerDocument.getElementById('overlay-box').style.opacity='0'"
+     transform="matrix(0.76550767,-0.0030054,0.00267214,0.86098131,195.61318,22.784653)">
+    <rect
+       style="opacity:0.5;fill:#ffffff;fill-opacity:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:stroke fill markers"
+       id="rect11"
+       width="65.93074"
+       height="55.035408"
+       x="733.06049"
+       y="445.87061" />
+  </g>
+  <g
+     id="g18"
+     transform="matrix(0.0625,0,0,0.0625,764.65732,406.62566)">
+    <rect
+       x="239.31"
+       y="120.321"
+       style="fill:#444242"
+       width="33.389"
+       height="139.98"
+       id="rect12" />
+    <rect
+       x="256"
+       y="120.321"
+       style="fill:#3a3839"
+       width="16.695"
+       height="139.98"
+       id="rect13" />
+    <rect
+       x="132.194"
+       y="305.86301"
+       transform="matrix(0.5,0.866,-0.866,0.5,399.932,58.9793)"
+       style="fill:#444242"
+       width="33.387001"
+       height="139.967"
+       id="rect14" />
+    <rect
+       x="293.125"
+       y="359.13"
+       transform="matrix(0.866,0.5,-0.5,0.866,236.5654,-131.205)"
+       style="fill:#3a3839"
+       width="139.967"
+       height="33.387001"
+       id="rect15" />
+    <path
+       style="background-color:#ffffff00;fill:#439de2;fill-opacity:1"
+       d="m 456.843,485.07 c -9.538,0 -18.951,-2.501 -27.432,-7.398 v 0 c -12.733,-7.351 -21.842,-19.221 -25.646,-33.424 -3.805,-14.201 -1.853,-29.035 5.499,-41.769 7.351,-12.732 19.221,-21.841 33.424,-25.646 14.201,-3.806 29.034,-1.853 41.769,5.499 12.732,7.351 21.841,19.221 25.646,33.424 3.805,14.202 1.853,29.035 -5.499,41.769 -7.351,12.733 -19.221,21.842 -33.424,25.646 -4.742,1.27 -9.557,1.899 -14.337,1.899 z"
+       id="path15" />
+    <path
+       style="background-color:#ffffff00;fill:#eda74a;fill-opacity:1"
+       d="m 256.001,137.021 c -30.352,0 -55.044,-24.693 -55.044,-55.044 0,-30.351 24.693,-55.044 55.044,-55.044 30.351,0 55.044,24.693 55.044,55.044 0,30.351 -24.693,55.044 -55.044,55.044 z"
+       id="path16" />
+    <path
+       style="background-color:#ffffff00;fill:#53acb1;fill-opacity:1"
+       d="m 55.158,485.07 c -4.781,0 -9.594,-0.629 -14.336,-1.9 C 26.619,479.365 14.75,470.256 7.398,457.524 0.046,444.792 -1.906,429.957 1.899,415.755 c 3.805,-14.203 12.914,-26.072 25.646,-33.424 12.731,-7.352 27.567,-9.304 41.769,-5.499 14.203,3.805 26.072,12.914 33.424,25.646 7.352,12.732 9.304,27.567 5.499,41.769 -3.805,14.203 -12.914,26.072 -25.646,33.424 -8.481,4.897 -17.896,7.399 -27.433,7.399 z"
+       id="path17" />
+    <path
+       style="fill:#f74d37"
+       d="m 256.001,384.379 c -38.81,0 -70.384,-31.575 -70.384,-70.384 0,-38.809 31.575,-70.384 70.384,-70.384 38.809,0 70.384,31.575 70.384,70.384 0,38.809 -31.575,70.384 -70.384,70.384 z"
+       id="path18" />
+  </g>
+</svg>
