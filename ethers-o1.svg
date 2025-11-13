@@ -105,6 +105,42 @@ how to make</text>
        style="opacity:0"
        id="howtomake-link" />
   </g>
+  <g
+     id="howtomake-8"
+     onclick="window.location.href = 'ethers-o1-yes.svg'"
+     onmouseover="document.getElementById('howtomake-box-4').setAttribute('opacity','0.5');"
+     onmouseout="document.getElementById('howtomake-box-4').setAttribute('opacity','1')"
+     transform="translate(514.6474,137.79629)"
+     inkscape:label="istudy">
+    <path
+       stroke="none"
+       fill="#999999"
+       d="m -315.83123,143.31862 c 0,0 0,-9.48846 0,-9.48846 0,-3.66793 6.76894,-6.64562 15.10824,-6.64562 0,0 141.58217,0 141.58217,0 8.33896,0 15.10756,2.97769 15.10756,6.64562 0,0 0,9.48846 0,9.48846 0,3.66792 -6.7686,6.64511 -15.10756,6.64511 0,0 -141.58217,0 -141.58217,0 -8.3393,0 -15.10824,-2.97719 -15.10824,-6.64511"
+       id="howtomake-box-4"
+       style="stroke-width:0.0753067" />
+    <text
+       x="-307.64844"
+       y="141.47148"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="200px"
+       font-family="Helvetica"
+       id="howtomaketext-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.05"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="-307.64844"
+         y="141.47148"
+         style="stroke-width:0.05">but we study ethers in OChem I...</tspan></text>
+    <path
+       stroke="#999999"
+       stroke-width="0.0753067"
+       d="m -315.83123,143.31862 c 0,0 0,-9.48846 0,-9.48846 0,-3.66793 6.76894,-6.64562 15.10824,-6.64562 0,0 141.58217,0 141.58217,0 8.33896,0 15.10756,2.97769 15.10756,6.64562 0,0 0,9.48846 0,9.48846 0,3.66792 -6.7686,6.64511 -15.10756,6.64511 0,0 -141.58217,0 -141.58217,0 -8.3393,0 -15.10824,-2.97719 -15.10824,-6.64511"
+       style="opacity:0"
+       id="howtomake-link-7" />
+  </g>
   <text
      x="822.84332"
      y="415.79849"
