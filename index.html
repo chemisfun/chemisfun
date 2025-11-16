@@ -1,14 +1,117 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="3; url=index.svg">
-  </head>
-  <body>
-    <p style="font-family: sans-serif; font-size: 24px; text-align: center; margin-top: 20%;">
-      You can click on reactants, reagents, products, and any buttons you see.
-    </p>
-    <p style="font-family: sans-serif; font-size: 24px; text-align: center; margin-top: 20%;">
-      Enjoy!
-    </p>
-  </body>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Free Chemistry Practice Problems and Charts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        text-align: center;
+        background: #f4f4f9;
+        margin: 0;
+        padding: 40px 20px;
+        color: #333;
+    }
+    h1 {
+        font-size: 28px;
+        margin-bottom: 40px;
+        color: #2c3e50;
+    }
+    .menu-container {
+        max-width: 400px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .menu-item {
+        background: #fff;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .menu-item:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+    .menu-item h2 {
+        margin: 0 0 10px 0;
+        font-size: 20px;
+        color: #2c3e50;
+    }
+    .menu-item p {
+        margin: 0 0 16px 0;
+        font-size: 15px;
+        color: #666;
+        line-height: 1.5;
+    }
+    .menu-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        width: 80%;
+        padding: 14px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #333;
+        background: #e0e0e0;
+        border: 2px solid #333;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: all 0.2s;
+        text-decoration: none;
+    }
+    .menu-btn:hover {
+        background: #d0d0d0;
+        transform: scale(1.02);
+    }
+    .menu-btn img {
+        width: 28px;
+        height: 28px;
+    }
+    .footer {
+        margin-top: 60px;
+        font-size: 13px;
+        color: #999;
+    }
+</style>
+</head>
+<body>
+
+<div class="menu-container">
+
+    <!-- ===== LEVEL 1 ===== -->
+    <div class="menu-item">
+        <h2>Free Chemistry Charts</h2>
+        <p>You can click on reactions, reagents, products and any buttons you see:</p>
+        <a href="index.svg" class="menu-btn">
+            OChem I/II Transformations
+        </a>
+    </div>
+
+    <!-- ===== LEVEL 2 ===== -->
+    <div class="menu-item">
+        <h2>Free Practice Opportunities</h2>
+        <p>Name common organic fragments:</p>
+        <a href="structure-to-name.html" class="menu-btn">
+            structure-to-name practice
+        </a>
+        <br/>
+        <br/>
+        <p>Recognize structures behind common names:</p>
+        <a href="name-to-structure.html" class="menu-btn">
+            name-to-structure practice
+        </a>
+    </div>
+
+</div>
+
+<div class="footer">
+    © 2025 ChemIsFun
+</div>
+
+</body>
 </html>
