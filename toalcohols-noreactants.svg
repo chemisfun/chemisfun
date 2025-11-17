@@ -2713,7 +2713,7 @@ HO</text>
   </g>
   <g
      id="overlay"
-     onclick="window.location.href = 'about.svg'"
+     onclick="window.location.href = 'index.html'"
      onmouseover="this.ownerDocument.getElementById('overlay-box').style.opacity='0.5'"
      onmouseout="this.ownerDocument.getElementById('overlay-box').style.opacity='0'"
      transform="matrix(0.76550767,-0.0030054,0.00267214,0.86098131,195.61318,22.784653)">

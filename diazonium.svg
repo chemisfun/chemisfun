@@ -1590,7 +1590,7 @@ OH</text>
   <g id="overlay-box" style="opacity:0" transform="matrix(0.31364504,0,0,0.8007311,650.50736,385.81436)">
     <rect style="fill:#609975;fill-opacity:0.2;stroke:#609970;stroke-width:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:fill markers stroke" id="rect285" width="164.84744" height="59.583412" x="329.69489" y="23.171328" />
   </g>
-  <g id="overlay" onclick="window.location.href = 'about.svg'" onmouseover="this.ownerDocument.getElementById('overlay-box').style.opacity='0.5'" onmouseout="this.ownerDocument.getElementById('overlay-box').style.opacity='0'" transform="matrix(0.76550767,-0.0030054,0.00267214,0.86098131,195.61318,22.784653)">
+  <g id="overlay" onclick="window.location.href = 'index.html'" onmouseover="this.ownerDocument.getElementById('overlay-box').style.opacity='0.5'" onmouseout="this.ownerDocument.getElementById('overlay-box').style.opacity='0'" transform="matrix(0.76550767,-0.0030054,0.00267214,0.86098131,195.61318,22.784653)">
     <rect style="opacity:0.5;fill:#ffffff;fill-opacity:0;stroke-linecap:round;stroke-opacity:0.657143;paint-order:stroke fill markers" id="rect2" width="65.93074" height="55.035408" x="733.06049" y="445.87061" />
   </g>
   <g id="g1" transform="matrix(0.0625,0,0,0.0625,764.65732,406.62566)">

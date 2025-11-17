@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Roman Numerals – 1-20 (a/b/c variants)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body{font-family:Arial,sans-serif;text-align:center;margin-top:40px;background:#f4f4f9;}
+    #game-area{margin:30px auto;width:200px;height:200px;border:2px solid #ccc;border-radius:10px;
+               display:flex;align-items:center;justify-content:center;background:#fff;position:relative;}
+    #svg-container{width:60%;height:60%;}
+    #feedback{white-space:nowrap;position:absolute;top:95%;left:50%;transform:translate(-50%,-50%);
+              font-size:24px;font-weight:bold;display:none;z-index:10;}
+    .correct{color:green;}
+    .incorrect{color:red;}
+
+    #numbers{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
+             gap:12px;max-width:600px;margin:30px auto;padding:0 15px;}
+    .word-btn{padding:6px 4px;font-size:16px;font-weight:bold;border:2px solid #333;
+              border-radius:8px;background:#e0e0e0;cursor:pointer;transition:.2s;}
+    .word-btn:hover{background:#d0d0d0;transform:translateY(-2px);}
+
+    #score{margin:20px;font-size:18px;}
+    .score-item{display:inline-block;margin:0 20px;}
+    .correct-score{color:green;}
+    .incorrect-score{color:red;}
+    #progress{margin:10px;font-size:14px;}
+</style>
+</head>
+<body>
+<div style="text-align:center; margin:10px 20px 0 0;">
+    <button class="num-btn" id="go-to">
+            <b>go home</b>
+    </button>
+</div>
+<!-- <h1>Roman Numerals Practice (1-20)</h1> -->
+<!-- <p>Click the word that matches the Roman numeral shown.</p> -->
+
+<div id="score">
+    <div class="score-item">Correct: <span id="correct-count" class="correct-score">0</span></div>
+    <div class="score-item">Incorrect: <span id="incorrect-count" class="incorrect-score">0</span></div>
+</div>
+
+<p>Click on a name of a <font color="red">highlighted</font> functional group.</p>
+
+<div id="game-area">
+    <div id="svg-container"></div>
+    <div id="feedback"></div>
+</div>
+
+<div id="numbers"></div>
+
+<div id="progress">Unique SVGs used: <span id="used-count">0</span> / <span id="total-count">0</span></div>
+
+<script>
+/* --------------------------------------------------------------
+   1. CONFIG
+   -------------------------------------------------------------- */
+const TOTAL_NUMBERS       = 20;
+const SVG_FOLDER          = 'fg-svgs/';          // <-- put your SVGs here
+const DELAY_AFTER_CORRECT = 1000;
+
+const WORD_LIST = ['', 'acid','acid anhydride','acid chloride','alcohol','aldehyde','alkane','alkene','alkyne','amide','amine','aromatic','diol','epoxide','ester','ether','halide','ketone','nitrile','thiol','something else'];
+
+/* --------------------------------------------------------------
+   2. BUILD LIST OF ALL SVG FILES (1-a.svg … 20-c.svg)
+   -------------------------------------------------------------- */
+const ALL_SVG_FILES = [];
+for (let n = 1; n <= TOTAL_NUMBERS; n++) {
+    ['a','b','c'].forEach(v => ALL_SVG_FILES.push(`${n}-${v}.svg`));
+}
+
+ALL_SVG_FILES.push(`20-e.svg`)
+ALL_SVG_FILES.push(`20-f.svg`)
+ALL_SVG_FILES.push(`20-g.svg`)
+
+/* --------------------------------------------------------------
+   3. RANDOM-PICK FROM REMAINING POOL (no repeats until all used)
+   -------------------------------------------------------------- */
+let remainingFiles = [...ALL_SVG_FILES];   // copy
+let usedFiles      = new Set();
+
+function refillIfEmpty() {
+    if (remainingFiles.length === 0) {
+        remainingFiles = [...ALL_SVG_FILES];
+        usedFiles.clear();
+        console.log('All 60 SVGs shown – reshuffling');
+    }
+}
+
+function getNextSVG() {
+    refillIfEmpty();
+    const idx = Math.floor(Math.random() * remainingFiles.length);
+    const file = remainingFiles.splice(idx, 1)[0];   // remove it
+    usedFiles.add(file);
+    updateProgress();
+    return file;
+}
+
+/* --------------------------------------------------------------
+   4. DOM & STATE
+   -------------------------------------------------------------- */
+const svgContainer   = document.getElementById('svg-container');
+const feedback       = document.getElementById('feedback');
+const numbersDiv     = document.getElementById('numbers');
+const correctEl      = document.getElementById('correct-count');
+const incorrectEl    = document.getElementById('incorrect-count');
+const usedEl         = document.getElementById('used-count');
+const totalEl        = document.getElementById('total-count');
+
+totalEl.textContent = ALL_SVG_FILES.length;   // 60
+
+let currentBaseNumber = null;
+let correctCount = 0, incorrectCount = 0;
+let timeoutId = null;
+
+/* word buttons */
+for (let i = 1; i <= TOTAL_NUMBERS; i++) {
+    const btn = document.createElement('button');
+    btn.className = 'word-btn';
+    btn.textContent = WORD_LIST[i];
+    btn.dataset.value = i;
+    btn.addEventListener('click', () => handleClick(i));
+    numbersDiv.appendChild(btn);
+}
+
+/* progress */
+function updateProgress() {
+    usedEl.textContent = usedFiles.size;
+}
+
+document.getElementById('go-to').addEventListener('click', () => {
+    window.location.href = 'index.html';
+});
+
+/* --------------------------------------------------------------
+   5. SHOW NEXT SVG
+   -------------------------------------------------------------- */
+function showNextSVG() {
+    svgContainer.innerHTML = '';
+    feedback.style.display = 'none';
+    if (timeoutId) clearTimeout(timeoutId);
+
+    const filename = getNextSVG();               // truly random from remaining
+    const match = filename.match(/^(\d+)-/);
+    currentBaseNumber = match ? Number(match[1]) : 1;
+
+    const img = document.createElement('img');
+    img.src = SVG_FOLDER + filename;
+    img.alt = `Roman ${currentBaseNumber}`;
+    img.style.width = '100%';
+    img.style.height = '100%';
+    img.style.objectFit = 'contain';
+    img.onload  = () => svgContainer.appendChild(img);
+    img.onerror = () => {
+        svgContainer.innerHTML = `<p style="color:red;">${filename} missing</p>`;
+    };
+}
+
+/* --------------------------------------------------------------
+   6. CLICK HANDLER
+   -------------------------------------------------------------- */
+function handleClick(clicked) {
+    if (currentBaseNumber === null) return;
+    disableButtons(true);
+
+    if (clicked === currentBaseNumber) {
+        correctCount++; correctEl.textContent = correctCount;
+        showFeedback('You’re right!', true);
+        timeoutId = setTimeout(() => { showNextSVG(); enableButtons(); }, DELAY_AFTER_CORRECT);
+    } else {
+        incorrectCount++; incorrectEl.textContent = incorrectCount;
+        showFeedback('You’re wrong!', false);
+        setTimeout(() => { feedback.style.display = 'none'; enableButtons(); }, 1500);
+    }
+}
+function showFeedback(txt, ok) {
+    feedback.textContent = txt;
+    feedback.className = ok ? 'correct' : 'incorrect';
+    feedback.style.display = 'block';
+}
+function disableButtons(yes = true) {
+    document.querySelectorAll('.word-btn').forEach(b => {
+        b.disabled = yes;
+        b.style.opacity = yes ? 0.5 : 1;
+    });
+}
+function enableButtons() { disableButtons(false); }
+
+
+/* --------------------------------------------------------------
+   7. START
+   -------------------------------------------------------------- */
+showNextSVG();
+</script>
+</body>
+</html>
