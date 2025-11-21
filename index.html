@@ -2,23 +2,82 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Free Chemistry Practice Problems and Charts</title>
+<title>ChemIsFun Practice</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
     body {
         font-family: 'Segoe UI', Arial, sans-serif;
-        text-align: center;
-        background: #f4f4f9;
+        background: #f8f9fa;
         margin: 0;
         padding: 40px 20px;
         color: #333;
+        text-align: center;
     }
     h1 {
-        font-size: 28px;
-        margin-bottom: 40px;
+        font-size: 32px;
+        margin-bottom: 50px;
         color: #2c3e50;
     }
-    .menu-container {
+
+    /* 3 cards per row – responsive */
+    .charts-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);   /* exactly 3 columns */
+        gap: 30px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    @media (max-width: 900px) {
+        .charts-grid { grid-template-columns: 1fr 1fr; }      /* 2 on tablet */
+    }
+    @media (max-width: 600px) {
+        .charts-grid { grid-template-columns: 1fr; }         /* 1 on phone */
+    }
+
+    .chart-card {
+        background: #fff;
+        padding: 24px;
+        border-radius: 14px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+        transition: all 0.3s ease;
+    }
+    .chart-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 14px 28px rgba(0,0,0,0.15);
+    }
+    .chart-card h2 {
+        margin: 0 0 12px 0;
+        font-size: 22px;
+        color: #2c3e50;
+    }
+    .chart-card p {
+        margin: 0 0 20px 0;
+        font-size: 15px;
+        text-align: center;
+        color: #555;
+        line-height: 1.6;
+    }
+    .chart-btn {
+        display: block;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        background: #e0e0e0;
+        color: #333;
+        border: 2px solid #333;
+        border-radius: 8px;
+        text-decoration: none;
+        transition: all 0.2s;
+    }
+    .chart-btn:hover {
+        background: #d0d0d0;
+        transform: scale(1.02);
+    }
+
+        .menu-container {
         max-width: 400px;
         margin: 0 auto;
         display: flex;
@@ -68,11 +127,8 @@
         background: #d0d0d0;
         transform: scale(1.02);
     }
-    .menu-btn img {
-        width: 28px;
-        height: 28px;
-    }
-    .footer {
+
+     .footer {
         margin-top: 60px;
         font-size: 13px;
         color: #999;
@@ -81,62 +137,68 @@
 </head>
 <body>
 
-<div class="menu-container">
+<h1><span style="color:green;">ChemIsFun</span> Practice</h1>
 
-    <!-- ===== LEVEL 1 ===== -->
-    <div class="menu-item">
-        <h2>Free Chemistry Charts</h2>
+<div class="charts-grid">
+
+    <!-- CARD 1 -->
+    <div class="chart-card">
+        <h2>Beginner Structure Drawing</h2>
+        <p><a href="h-number.html" class="chart-btn">recognize implied hydrogens</a></p>
+    </div>
+
+    <!-- CARD 2 -->
+    <div class="chart-card">
+        <h2>Nomenclature</h2>
+        <p><a href="structure-to-name.html" class="chart-btn">name common organic fragments</a></p>
+        <p><a href="name-to-structure.html" class="chart-btn">recognize common organic parts</a></p>
+        <p><a href="fg.html" class="chart-btn">name functional groups</a></p>
+        <p><a href="https://realochem.study/" target="_blank" class="chart-btn">IUPAC naming at <span style="color:green;">realochem.study</span></a></p>
+    </div>
+
+    <!-- CARD 3 -->
+    <div class="chart-card">
+        <h2>Predicting Reactivity (OC-I)</h2>
+        <p><a href="mechanisms.html" class="chart-btn">predict whether S<sub>N</sub>2/S<sub>N</sub>1/E2/E1 takes place</a></p>
+        <h2>Predicting Reactivity (OC-II)</h2>
+        <p><a href="https://realochem.study/" target="_blank" class="chart-btn">aromaticity practice at <span style="color:green;">realochem.study</span></a></p>
+    </div>
+
+    <!-- ADD MORE CARDS BELOW – they will automatically go to the next row -->
+
+
+    <div class="chart-card">
+        <h2>Stereochemistry <br/>at <span style="color:green;">realochem.study</span></h2>
+        <p>A wonderful free resource with plenty of practice!</p>
+        <p><a href="https://realochem.study/" target="_blank" class="chart-btn">R/S, E/Z, stereoisomer relationships</a></p>
+    </div>
+
+    <div class="chart-card">
+        <h2>All Orgo Reactions</h2>
         <p>Click on reactants, reagents, or products.<br/>Click on buttons at bottom left for a self-assessment.</p>
-        <a href="index.svg" class="menu-btn">
-            OChem I/II Transformations
-        </a>
+        <p><a href="index.svg" class="chart-btn">OChem I/II Transformations</a></p>
     </div>
 
-    <!-- ===== LEVEL 2 ===== -->
+    <div class="chart-card">
+        <h2>NMR practice<br/>at <span style="color:green;">IOCB Prague</span></h2>
+        <p>A wonderful free resource with plenty of practice!</p>
+        <p><a href="https://nmr-challenge.uochb.cas.cz/" target="_blank" class="chart-btn"><sup>1</sup>H, <sup>13</sup>C NMR, and much more</a></p>
+    </div>
+</div>
+
+<br/>
+<br/>
+
+
+
     <div class="menu-item">
-        <h2>Free Practice Opportunities</h2>
-        <p>Recognize implied Hydrogens:</p>
-        <a href="h-number.html" class="menu-btn">
-            H number practice
-        </a>
-        <br/>
-        <br/>
-        <p>Name common organic fragments:</p>
-        <a href="structure-to-name.html" class="menu-btn">
-            structure-to-name practice
-        </a>
-        <br/>
-        <br/>
-        <p>Recognize structures behind common names:</p>
-        <a href="name-to-structure.html" class="menu-btn">
-            name-to-structure practice
-        </a>
-        <br/>
-        <br/>
-        <p>Name common functional groups:</p>
-        <a href="fg.html" class="menu-btn">
-            functional groups practice
-        </a>
-        <br/>
-        <br/>
-        <p>Predict common mechanisms (S<sub>N</sub>2/S<sub>N</sub>1/E2/E1):</p>
-        <a href="mechanisms.html" class="menu-btn">
-            mechanisms prediction practice
-        </a>
-    </div>
-
-        <div class="menu-item">
-        <h2>About ChemIsFun</h2>
+        <h2><span style="color:green;">ChemIsFun</span>:</h2>
         <p>Just a resource to help you practice orgo!</p>
-        <p>Comments? Email <b>funchemcharts@gmail.com</b></p>
-        
+        <p>Comments? Typos? Suggestions? Email <b>funchemcharts@gmail.com</b></p>   
     </div>
 
-</div>
 
-<div class="footer">
-    © 2025 ChemIsFun (last update: 11/2025)
-</div>
+<div class="footer">© 2025 ChemIsFun (last update: 11/2025)</div>
 
 </body>
 </html>
