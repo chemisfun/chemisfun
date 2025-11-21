@@ -2,21 +2,21 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Structure-to-name Practice</title>
+<title>Implied Hydrogens Practice</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
     body{font-family:Arial,sans-serif;text-align:center;margin-top:40px;background:#f4f4f9;}
-    #game-area{margin:30px auto;width:250px;height:250px;border:2px solid #ccc;border-radius:10px;
+    #game-area{margin:30px auto;width:200px;height:200px;border:2px solid #ccc;border-radius:10px;
                display:flex;align-items:center;justify-content:center;background:#fff;position:relative;}
-    #svg-container{width:100%;height:100%;}
+    #svg-container{width:80%;height:80%;}
     #feedback{white-space:nowrap;position:absolute;top:95%;left:50%;transform:translate(-50%,-50%);
-              font-size:24px;font-weight:bold;display:none;z-index:10;}
+              font-size:20px;font-weight:bold;display:none;z-index:10;}
     .correct{color:green;}
     .incorrect{color:red;}
 
     #numbers{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
              gap:12px;max-width:600px;margin:30px auto;padding:0 15px;}
-    .word-btn{padding:5px 2px;font-size:16px;font-weight:bold;border:2px solid #333;
+    .word-btn{padding:6px 4px;font-size:16px;font-weight:bold;border:2px solid #333;
               border-radius:8px;background:#e0e0e0;cursor:pointer;transition:.2s;}
     .word-btn:hover{background:#d0d0d0;transform:translateY(-2px);}
 
@@ -41,6 +41,8 @@
     <div class="score-item">Incorrect: <span id="incorrect-count" class="incorrect-score">0</span></div>
 </div>
 
+<p>How many H atoms is the specified atom attached to?</p>
+
 <div id="game-area">
     <div id="svg-container"></div>
     <div id="feedback"></div>
@@ -54,27 +56,18 @@
 /* --------------------------------------------------------------
    1. CONFIG
    -------------------------------------------------------------- */
-const TOTAL_NUMBERS       = 20;
-const SVG_FOLDER          = 'structure-name-svgs/';          // <-- put your SVGs here
+const TOTAL_NUMBERS       = 4;
+const SVG_FOLDER          = 'h-number-svgs/';          // <-- put your SVGs here
 const DELAY_AFTER_CORRECT = 1000;
 
-const WORD_LIST = ['', 'acetoxy', 'acetyl', 'allyl', 'benzoyl', 'benzyl',
-        'butyl', 'cyclohexyl', 'cyclopentyl', 'ethoxy', 'ethyl',
-        'hydroxy', 'isopropoxy', 'isopropyl', 'methoxy', 'methyl',
-        'methylene', 'phenyl', 'propyl', 'tert-butyl', 'vinyl'];
+const WORD_LIST = ['','3','2','1','0'];
 
 /* --------------------------------------------------------------
    2. BUILD LIST OF ALL SVG FILES (1-a.svg … 20-c.svg)
    -------------------------------------------------------------- */
 const ALL_SVG_FILES = [];
 for (let n = 1; n <= TOTAL_NUMBERS; n++) {
-    ['a'].forEach(v => ALL_SVG_FILES.push(`${n}-${v}.svg`));
-}
-for (let n = 1; n <= TOTAL_NUMBERS; n++) {
-    ['b'].forEach(v => ALL_SVG_FILES.push(`${n}-${v}.svg`));
-}
-for (let n = 1; n <= TOTAL_NUMBERS; n++) {
-    ['c'].forEach(v => ALL_SVG_FILES.push(`${n}-${v}.svg`));
+    ['a','b','c','d','e','f','g','h','i','j'].forEach(v => ALL_SVG_FILES.push(`${n}-${v}.svg`));
 }
 
 
