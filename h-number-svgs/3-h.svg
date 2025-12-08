@@ -1,1 +1,166 @@
-<?xml version="1.0" standalone="no" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="52px" height="46px" viewBox="0 0 52 46" style="background-color: #ffffff00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" ><text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 22.8418 23.8447)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >N</text><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10888,4791.48 L 10876.9,4772.28 L 11042,4676.96 L 11053.1,4696.16 L 10888,4791.48 Z " /><text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 22.5913 8.86874)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >O</text><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11125.2,4536.1 L 11103,4536.1 L 11103,4433.09 L 11125.2,4433.09 L 11125.2,4536.1 Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11180.6,4536.1 L 11158.5,4536.1 L 11158.5,4433.09 L 11180.6,4433.09 L 11180.6,4536.1 Z " /><text x="0" y="0" stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 35.5609 31.3327)" font-style="normal" font-weight="bold" font-size="180px" font-family="Helvetica" >O</text><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11229.5,4695.53 L 11240.6,4676.33 L 11323.6,4724.28 L 11312.5,4743.49 L 11229.5,4695.53 Z " /><path stroke="#000000" stroke-width="18" fill="none" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10679.5,4742.42 A 68.8704,68.8704 0 1 0 10817.2,4742.42A 68.8704,68.8704 0 1 0 10679.5,4742.42Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10707.3,4733.42 L 10789.4,4733.42 L 10789.4,4751.42 L 10707.3,4751.42 Z " /><path stroke="#000000" stroke-width="18" fill="none" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11453.2,4662.05 A 68.8704,68.8704 0 1 0 11590.9,4662.05A 68.8704,68.8704 0 1 0 11453.2,4662.05Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11481,4653.05 L 11563.2,4653.05 L 11563.2,4671.05 L 11481,4671.05 Z " /><path stroke="#000000" stroke-width="18" fill="none" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11073.8,4816.57 A 68.8704,68.8704 0 1 0 11211.6,4816.57A 68.8704,68.8704 0 1 0 11073.8,4816.57Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11101.6,4807.57 L 11183.8,4807.57 L 11183.8,4825.57 L 11101.6,4825.57 Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 11151.7,4775.48 L 11151.7,4857.66 L 11133.7,4857.66 L 11133.7,4775.48 Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10905.3,4984.24 L 10910.9,5079.42 L 10888.9,5080.42 L 10883.3,4985.24 Z " /><path stroke="none" fill="#000000" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10886.6,4853.87 C 10886.6,4853.87 10934.2,5001.34 10934.2,5001.34 C 10934.2,5001.34 10911.3,4984.32 10894.4,4985.73 C 10877.5,4987.15 10856.8,5007.8 10856.8,5007.8 C 10856.8,5007.8 10886.6,4853.87 10886.6,4853.87 C 10886.6,4853.87 10886.6,4853.87 10886.6,4853.87 " /><path stroke="#000000" stroke-width="1" fill="none" transform="matrix(0.05 0 0 0.05 -531 -211)" d="M 10886.6,4853.87 C 10886.6,4853.87 10934.2,5001.34 10934.2,5001.34 C 10934.2,5001.34 10911.3,4984.32 10894.4,4985.73 C 10877.5,4987.15 10856.8,5007.8 10856.8,5007.8 C 10856.8,5007.8 10886.6,4853.87 10886.6,4853.87 C 10886.6,4853.87 10886.6,4853.87 10886.6,4853.87 " /></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.553664mm"
+   height="9.3807554mm"
+   viewBox="0 0 12.553664 9.3807554"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="3-h.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-57.805979"
+     inkscape:cy="13.523417"
+     inkscape:window-width="1920"
+     inkscape:window-height="956"
+     inkscape:window-x="1728"
+     inkscape:window-y="62"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.30052,-202.40625)">
+    <text
+       x="69.934097"
+       y="208.13481"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="2.38125px"
+       font-family="Helvetica"
+       id="text1"
+       style="stroke-width:0.0132292">N</text>
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 67.435989,209.38612 -0.146844,-0.254 2.184136,-1.261 0.146844,0.254 z"
+       id="path1"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 65.504116,207.76384 0.188461,-0.22485 1.931973,1.62113 -0.188461,0.22485 z"
+       id="path1-8"
+       style="stroke-width:0.0132292" />
+    <text
+       x="69.867813"
+       y="204.17242"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="2.38125px"
+       font-family="Helvetica"
+       id="text2"
+       style="stroke-width:0.0132292">O</text>
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 70.573948,206.00766 h -0.293687 v -1.36274 h 0.293687 z"
+       id="path2"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 71.306844,206.00766 h -0.292365 v -1.36274 h 0.292365 z"
+       id="path3"
+       style="stroke-width:0.0132292" />
+    <text
+       x="73.299355"
+       y="210.11601"
+       stroke="none"
+       fill="#000000"
+       font-style="normal"
+       font-weight="bold"
+       font-size="2.38125px"
+       font-family="Helvetica"
+       id="text3"
+       style="stroke-width:0.0132292">O</text>
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 71.953751,208.11678 0.146843,-0.254 1.098021,0.63434 -0.146843,0.25414 z"
+       id="path4"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="#000000"
+       stroke-width="0.238125"
+       fill="none"
+       d="m 66.782107,210.73468 a 0.91109823,0.91109823 0 1 0 1.821657,0 0.91109823,0.91109823 0 1 0 -1.821657,0 z"
+       id="path5" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 67.149878,210.61562 h 1.086115 v 0.23812 h -1.086115 z"
+       id="path6"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="#000000"
+       stroke-width="0.238125"
+       fill="none"
+       d="m 74.913116,207.67387 a 0.91109823,0.91109823 0 1 0 1.821657,0 0.91109823,0.91109823 0 1 0 -1.821657,0 z"
+       id="path7" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 75.280887,207.55481 h 1.087438 v 0.23812 h -1.087438 z"
+       id="path8"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="#000000"
+       stroke-width="0.238125"
+       fill="none"
+       d="m 69.893969,209.71804 a 0.91148981,0.91148981 0 1 0 1.822979,0 0.91148981,0.91148981 0 1 0 -1.822979,0 z"
+       id="path9" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 70.26174,209.59898 h 1.087437 v 0.23813 H 70.26174 Z"
+       id="path10"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 70.924521,209.17446 v 1.08717 h -0.238125 v -1.08717 z"
+       id="path11"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 65.553242,210.4526 -1.124053,0.57222 -0.128669,-0.26139 1.124053,-0.57222 z"
+       id="path12"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="none"
+       fill="#000000"
+       d="m 67.034448,209.5351 c 0,0 -1.535347,1.35842 -1.535347,1.35842 0,0 0.08497,-0.36777 -0.02167,-0.56516 -0.106779,-0.19732 -0.466758,-0.33883 -0.466758,-0.33883 0,0 2.023788,-0.45445 2.023788,-0.45445 0,0 0,0 0,0"
+       id="path13"
+       style="stroke-width:0.0132292" />
+    <path
+       stroke="#000000"
+       stroke-width="0.0132292"
+       fill="none"
+       d="m 67.034448,209.5351 c 0,0 -1.535347,1.35842 -1.535347,1.35842 0,0 0.08497,-0.36777 -0.02167,-0.56516 -0.106779,-0.19732 -0.466758,-0.33883 -0.466758,-0.33883 0,0 2.023788,-0.45445 2.023788,-0.45445 0,0 0,0 0,0"
+       id="path14" />
+  </g>
+</svg>
